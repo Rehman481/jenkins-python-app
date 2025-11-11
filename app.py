@@ -1,4 +1,5 @@
 def main():
-print("Hello from Jenkins CI/CD with pythton!")
-if__name__=="__main__":
-main()
+    print("Hello jenkins, code updated automatically!") 
+
+if __name__== "__main__":
+    main()
